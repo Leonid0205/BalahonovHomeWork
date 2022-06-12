@@ -27,3 +27,4 @@ git config --global user.email ваша "почта@example.com"
 * `git branch` выводит список веток в репозитории.
 * `git branch new_branch_name` создает новую ветку с именем new_branch_name.
 * `git branch -d new_branch_name_to_delete` удаляет ветку с именем new_branch_name.
+* `got log -graph` выводит список ввиде красивого графа.
