@@ -29,3 +29,5 @@ git config --global user.email ваша "почта@example.com"
 * `git branch -d new_branch_name_to_delete` удаляет ветку с именем new_branch_name.
 * `got log --graph` выводит список ввиде красивого графа.
 * `git checkout branch_name` переход на ветку branch_name.
+* `git checkout branch_name` переход на ветку branch_name.
+* `git merge branch_name` - сливает веткку с именем branch_name с текущей веткой.
