@@ -30,3 +30,4 @@ git config --global user.email ваша "почта@example.com"
 * `got log --graph` выводит список ввиде красивого графа.
 * `git checkout branch_name` переход на ветку branch_name.
 * `git log --graph` выводит список коммитов ввиде графа.
+* `git merge branch_name` - сливает веткку с именем branch_name с текущей веткой.
