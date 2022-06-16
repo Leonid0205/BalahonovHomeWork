@@ -31,3 +31,5 @@ git config --global user.email ваша "почта@example.com"
 * `git checkout branch_name` переход на ветку branch_name.
 * `git checkout branch_name` переход на ветку branch_name.
 * `git merge branch_name` - сливает веткку с именем branch_name с текущей веткой.
+
+В данном руководстве описаны основные команды Git!
